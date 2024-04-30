@@ -4,7 +4,7 @@
 
 **Technologies Used**: Python for web scraping, Excel for data presentation
 
-**Website**: [Delta Dental - Find a Dentist](https://www.deltadental.com/us/en/member/find-a-dentist/dentist-search-results.html?)
+**Website**: [Delta Dental - Find a Dentist](https://www.deltadental.com/us/en/member/find-a-dentist/dentist-search-results.html)
 
 **Outcome**: Automated dentist data extraction by ZIP code and specialty
 
@@ -18,7 +18,7 @@ Accessed Delta Dental's API to extract dentist details based on city and special
 Delivered to the client a Python script that allows the extraction of all desired dentist data by inputting ZIP code and specialty.
 
 ## Data to be extracted from Delta Dental website.
-![deltadental](https://github.com/TechBeme/deltadental/assets/101749351/bebf1db6-3013-4866-b85b-45afc8365374)
+[![deltadental](https://github.com/TechBeme/deltadental/assets/101749351/bebf1db6-3013-4866-b85b-45afc8365374)](https://www.deltadental.com/us/en/member/find-a-dentist/dentist-search-results.html)
 
 ## Output table with the extracted data.
-![sample](https://github.com/TechBeme/ManyVids/assets/101749351/61970ab8-8df5-4a3d-bf7b-250944963843)
+[![sample](https://github.com/TechBeme/ManyVids/assets/101749351/61970ab8-8df5-4a3d-bf7b-250944963843)](https://docs.google.com/spreadsheets/d/1qgQNIyPPbXwPLP5vbKD3W04JDtQYvONuLYa6t558e1s/edit#gid=454606752)
